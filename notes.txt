@@ -1,0 +1,2 @@
+➡️ File I/O — Reading & Writing Files:
+File I/O (Input/Output) means your Python program can read data from files and write data to files on disk. This is essential for saving results, reading configs, processing datasets, and building real-world apps.
